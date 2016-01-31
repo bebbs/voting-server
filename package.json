@@ -25,5 +25,9 @@
   },
   "dependencies": {
     "immutable": "^3.7.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bebbs/voting-server.git"
   }
 }
